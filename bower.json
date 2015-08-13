@@ -15,11 +15,11 @@
   ],
   "dependencies": {
     "active-support": "0.1.1",
-    "angular": "latest",
-    "lodash": "latest"
+    "angular": "~1.2.0",
+    "lodash": "3.9.3"
   },
   "devDependencies": {
-    "angular-route": "latest",
-    "angular-mocks": "latest"
+    "angular-route": "~1.2.0",
+    "angular-mocks": "~1.2.0"
   }
 }
